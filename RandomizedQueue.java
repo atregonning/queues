@@ -148,9 +148,5 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
         }
         return a[StdRandom.uniform(N)];
     }
-    
-    // unit testing
-    public static void main(String[] args) {
-    }
-    
+       
 }

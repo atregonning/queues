@@ -183,13 +183,5 @@ public class Deque<Item> implements Iterable<Item> {
         N--;
         return item;
     }
-
-    /**
-     * Test client.
-     * 
-     * @param args
-     */
-    public static void main(String[] args) {
-    }
     
 }
